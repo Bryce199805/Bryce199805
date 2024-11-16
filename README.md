@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bryce199805
+- 👋 Hi, I’m @Bryce199805.
 - 👀 I’m interested in Knowlegde Distillation.
 - 🌱 I’m currently learning C++, Python and Go.
 - 💞️ I’m looking to collaborate on ...
