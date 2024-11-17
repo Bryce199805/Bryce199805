@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bryce199805.
-- 👀 I’m interested in Knowlegde Distillation.
+- 👀 I’m interested in Knowlegde Distillation and Few Shot Learning.
 - 🌱 I’m currently learning C++, Python and Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
