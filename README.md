@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryce.
 - 👀 I’m interested in Knowlegde Distillation and Few Shot Learning.
-- 🌱 I’m currently learning C++, Python and Linux ops.
+- 🌱 I’m currently learning C++, Python and Linux.
 - 📫 How to reach me: bryce199805@gmail.com
 - 😄 Pronouns: He/Him👨‍🎓
 
