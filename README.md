@@ -53,42 +53,17 @@ motto: "Compress the model, not the ambition."
 
 <div align="center">
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+**Languages:**&ensp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-#### Deep Learning & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**DL / ML:**&ensp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![timm](https://img.shields.io/badge/timm-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-#### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+**Tools & Platforms:**&ensp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
 ## GitHub Analytics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-bryce199805s-projects.vercel.app/api?username=Bryce199805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-main-bryce199805s-projects.vercel.app/api?username=Bryce199805&show_icons=true&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-git-main-bryce199805s-projects.vercel.app/api?username=Bryce199805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Bryce's GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-bryce199805s-projects.vercel.app/api/top-langs/?username=Bryce199805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-main-bryce199805s-projects.vercel.app/api/top-langs/?username=Bryce199805&layout=compact&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-git-main-bryce199805s-projects.vercel.app/api/top-langs/?username=Bryce199805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
@@ -113,61 +88,76 @@ motto: "Compress the model, not the ambition."
 ## Research Interests
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-%E2%9C%A8-0D1117?style=for-the-badge" /><br/>
-<h3>Knowledge<br/>Distillation</h3>
-<p><sub>Transferring knowledge from<br/>large models to compact ones</sub></p>
+<br/>
+<img src="https://img.shields.io/badge/%E2%9C%A8_Knowledge_Distillation-58A6FF?style=for-the-badge" />
+<br/><br/>
+<p>Transferring knowledge from<br/>large models to compact ones</p>
+<br/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-%F0%9F%94%A7-0D1117?style=for-the-badge" /><br/>
-<h3>Model<br/>Compression</h3>
-<p><sub>Making deep models smaller,<br/>faster, and more efficient</sub></p>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%94%A7_Model_Compression-A371F7?style=for-the-badge" />
+<br/><br/>
+<p>Making deep models smaller,<br/>faster, and more efficient</p>
+<br/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-%F0%9F%94%8D-0D1117?style=for-the-badge" /><br/>
-<h3>Representation<br/>Learning</h3>
-<p><sub>Learning meaningful and<br/>transferable feature representations</sub></p>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%94%8D_Representation_Learning-3FB950?style=for-the-badge" />
+<br/><br/>
+<p>Learning meaningful and<br/>transferable feature representations</p>
+<br/>
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-## Quick Access
+## Repositories & Quick Access
 
 <div align="center">
-
-<a href="https://github.com/Bryce199805/paper"><img src="https://img.shields.io/badge/paper-Paper%20Reading-58A6FF?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-<a href="https://github.com/Bryce199805/experiment"><img src="https://img.shields.io/badge/experiment-Experiments-F78166?style=for-the-badge&logo=flask&logoColor=white" /></a>
-<a href="https://github.com/Bryce199805/UHKD"><img src="https://img.shields.io/badge/UHKD-Research%20Project-A371F7?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Bryce199805/RAKD"><img src="https://img.shields.io/badge/RAKD-Research%20Project-3FB950?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Bryce199805/ResearchNotes">
-<img src="https://img.shields.io/badge/ResearchNotes-Academic%20Blogs%20%7C%20Paper%20Notes%20%26%20Insights-58A6FF?style=for-the-badge&logo=notion&logoColor=white" width="48%" />
-</a>
-<a href="https://github.com/Bryce199805/technicalDoc">
-<img src="https://img.shields.io/badge/technicalDoc-Technical%20Blogs%20%7C%20Dev%20Notes%20%26%20Tutorials-F78166?style=for-the-badge&logo=readthedocs&logoColor=white" width="48%" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Bryce199805/shell-tools-lite">
-<img src="https://img.shields.io/badge/shell--tools--lite-GPU%20Monitor%20%7C%20Background%20Jobs%20%7C%20Linux%20Utils-3FB950?style=for-the-badge&logo=gnubash&logoColor=white" width="48%" />
-</a>
-
+<table>
+<tr>
+<td align="center" width="50%">
+<h3><a href="https://github.com/Bryce199805/ResearchNotes">ResearchNotes</a></h3>
+<img src="https://img.shields.io/badge/Academic_Blogs-Paper_Notes_&_Insights-58A6FF?style=flat-square" /><br/>
+<sub>Paper reading notes and research insights</sub>
+</td>
+<td align="center" width="50%">
+<h3><a href="https://github.com/Bryce199805/technicalDoc">technicalDoc</a></h3>
+<img src="https://img.shields.io/badge/Technical_Blogs-Dev_Notes_&_Tutorials-F78166?style=flat-square" /><br/>
+<sub>Technical documentation and dev tutorials</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3><a href="https://github.com/Bryce199805/shell-tools-lite">shell-tools-lite</a></h3>
+<img src="https://img.shields.io/badge/Linux_Utils-GPU_Monitor_&_Job_Control-3FB950?style=flat-square" /><br/>
+<sub>Lightweight shell utilities for Linux productivity</sub>
+</td>
+<td align="center" width="50%">
+<h3><a href="https://github.com/Bryce199805/RAKD">RAKD</a></h3>
+<img src="https://img.shields.io/badge/Research_Project-Knowledge_Distillation-A371F7?style=flat-square" /><br/>
+<sub>Research project on knowledge distillation</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3><a href="https://github.com/Bryce199805/UHKD">UHKD</a></h3>
+<img src="https://img.shields.io/badge/Research_Project-Knowledge_Distillation-A371F7?style=flat-square" /><br/>
+<sub>Research project on knowledge distillation</sub>
+</td>
+<td align="center" width="50%">
+<h3><a href="https://github.com/Bryce199805/paper">paper</a> &ensp;|&ensp; <a href="https://github.com/Bryce199805/experiment">experiment</a></h3>
+<img src="https://img.shields.io/badge/Private-Paper_Reading-E8EAED?style=flat-square&logo=bookstack&logoColor=333" /> <img src="https://img.shields.io/badge/Private-Experiments-E8EAED?style=flat-square&logo=flask&logoColor=333" /><br/>
+<sub>Paper collection & experiment workspace</sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
