@@ -57,7 +57,7 @@ motto: "Compress the model, not the ambition."
 
 **DL / ML:**&ensp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![timm](https://img.shields.io/badge/timm-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Tools & Platforms:**&ensp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Tools & Platforms:**&ensp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -87,33 +87,10 @@ motto: "Compress the model, not the ambition."
 
 ## Research Interests
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/%E2%9C%A8_Knowledge_Distillation-58A6FF?style=for-the-badge" />
-<br/><br/>
-<p>Transferring knowledge from<br/>large models to compact ones</p>
-<br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%94%A7_Model_Compression-A371F7?style=for-the-badge" />
-<br/><br/>
-<p>Making deep models smaller,<br/>faster, and more efficient</p>
-<br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%94%8D_Representation_Learning-3FB950?style=for-the-badge" />
-<br/><br/>
-<p>Learning meaningful and<br/>transferable feature representations</p>
-<br/>
-</td>
-</tr>
-</table>
-</div>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/%E2%9C%A8_Knowledge_Distillation-58A6FF?style=for-the-badge" /> | <img src="https://img.shields.io/badge/%F0%9F%94%A7_Model_Compression-A371F7?style=for-the-badge" /> | <img src="https://img.shields.io/badge/%F0%9F%94%8D_Representation_Learning-3FB950?style=for-the-badge" /> |
+| Transfer knowledge from large models to compact ones | Make deep models smaller, faster, and more efficient | Learn meaningful and transferable feature representations |
 
 ---
 
@@ -140,21 +117,9 @@ motto: "Compress the model, not the ambition."
 <sub>Lightweight shell utilities for Linux productivity</sub>
 </td>
 <td align="center" width="50%">
-<h3><a href="https://github.com/Bryce199805/RAKD">RAKD</a></h3>
-<img src="https://img.shields.io/badge/Research_Project-Knowledge_Distillation-A371F7?style=flat-square" /><br/>
-<sub>Research project on knowledge distillation</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<h3><a href="https://github.com/Bryce199805/UHKD">UHKD</a></h3>
-<img src="https://img.shields.io/badge/Research_Project-Knowledge_Distillation-A371F7?style=flat-square" /><br/>
-<sub>Research project on knowledge distillation</sub>
-</td>
-<td align="center" width="50%">
-<h3><a href="https://github.com/Bryce199805/paper">paper</a> &ensp;|&ensp; <a href="https://github.com/Bryce199805/experiment">experiment</a></h3>
-<img src="https://img.shields.io/badge/Private-Paper_Reading-E8EAED?style=flat-square&logo=bookstack&logoColor=333" /> <img src="https://img.shields.io/badge/Private-Experiments-E8EAED?style=flat-square&logo=flask&logoColor=333" /><br/>
-<sub>Paper collection & experiment workspace</sub>
+<h3><a href="https://github.com/Bryce199805/UHKD">UHKD</a> &ensp;|&ensp; <a href="https://github.com/Bryce199805/RAKD">RAKD</a></h3>
+<img src="https://img.shields.io/badge/Research-Knowledge_Distillation-A371F7?style=flat-square" /><br/>
+<sub>Research projects on knowledge distillation</sub>
 </td>
 </tr>
 </table>
