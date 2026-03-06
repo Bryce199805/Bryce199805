@@ -67,9 +67,9 @@ motto: "Compress the model, not the ambition."
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Bryce199805&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Bryce199805&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=Bryce199805&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Bryce199805&timezone=Asia/Shanghai&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Bryce199805&timezone=Asia/Shanghai&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Bryce199805&timezone=Asia/Shanghai&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
   </picture>
 </div>
 
