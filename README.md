@@ -39,9 +39,9 @@ motto: "Compress the model, not the ambition."
 ### Quick Facts
 
 - Pronouns: **He/Him**
-- Paper reader & deep learning enthusiast
-- Linux power user
-- Lover of clean, efficient code
+- Night owl 🦉
+- Coffee, tea & a little alcohol
+- Sports & music lover
 
 </td>
 </tr>
