@@ -21,6 +21,7 @@ research:
 motto: "Compress the model, not the ambition."
 ```
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -46,6 +47,7 @@ motto: "Compress the model, not the ambition."
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
