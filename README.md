@@ -30,7 +30,7 @@ motto: "Compress the model, not the ambition."
 
 - Pursuing **Ph.D.** in Computer Science
 - Deep diving into **Knowledge Distillation** & **Model Compression**
-- Writing academic blogs on [ResearchNotes](https://github.com/Bryce199805/ResearchNotes)
+- Writing academic blogs on [Awesome-Distillaion](https://github.com/Bryce199805/Awesome-Distillation)
 - Writing technical blogs on [technicalDoc](https://github.com/Bryce199805/technicalDoc)
 - Building shell utilities for Linux productivity
 
@@ -102,7 +102,7 @@ motto: "Compress the model, not the ambition."
 <table>
 <tr>
 <td align="center" width="50%">
-<h3><a href="https://github.com/Bryce199805/ResearchNotes">ResearchNotes</a></h3>
+<h3><a href="https://github.com/Bryce199805/Awesome-Distillation">Awesome-Distillation</a></h3>
 <img src="https://img.shields.io/badge/Academic_Blogs-Paper_Notes_&_Insights-58A6FF?style=flat-square" /><br/>
 <sub>Paper reading notes and research insights</sub>
 </td>
