@@ -30,8 +30,8 @@ motto: "Compress the model, not the ambition."
 
 - Pursuing **Ph.D.** in Computer Science
 - Deep diving into **Knowledge Distillation** & **Model Compression**
-- Writing academic blogs on [Awesome-Distillaion](https://github.com/Bryce199805/Awesome-Distillation)
-- Writing technical blogs on [technicalDoc](https://github.com/Bryce199805/technicalDoc)
+- Academic blogs on [Awesome-Distillaion](https://github.com/Bryce199805/Awesome-Distillation)
+- Technical blogs on [technicalDoc](https://github.com/Bryce199805/technicalDoc)
 - Building shell utilities for Linux productivity
 
 </td>
